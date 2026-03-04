@@ -4,7 +4,7 @@ namespace CleanArchitecture.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class CategoriesController : ControllerBase
     {
         private static readonly string[] Summaries =
         [
