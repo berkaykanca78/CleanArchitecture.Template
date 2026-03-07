@@ -8,6 +8,7 @@
     <Project Path="CleanArchitecture.Domain/CleanArchitecture.Domain.csproj" />
   </Folder>
   <Folder Name="/src/Infrastructure/">
+    <Project Path="CleanArchitecture.Caching/CleanArchitecture.Caching.csproj" Id="98229734-67c7-4bb5-85de-4c5171d0235f" />
     <Project Path="CleanArchitecture.Persistence/CleanArchitecture.Persistence.csproj" />
   </Folder>
   <Folder Name="/test/" />
